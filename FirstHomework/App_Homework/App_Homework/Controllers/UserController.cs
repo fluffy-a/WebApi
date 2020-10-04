@@ -19,8 +19,8 @@ namespace App_Homework.Controllers
         public ActionResult<List<User>> GetAllUsers()
         {
             var listOfAllUsers= StaticDb.Users.ToList();
-            if (listOfAllUsers.Count < 3)
-                return StatusCode(StatusCodes.Status204NoContent);
+             if (listOfAllUsers.Count ==0)
+               return NoContent();
             return StatusCode(StatusCodes.Status200OK, listOfAllUsers);
         }
 
@@ -33,7 +33,6 @@ namespace App_Homework.Controllers
                 return StatusCode(StatusCodes.Status404NotFound, new User());
             return StatusCode(StatusCodes.Status200OK, user);
         }
-
 
 
         // DELETE api/user/5

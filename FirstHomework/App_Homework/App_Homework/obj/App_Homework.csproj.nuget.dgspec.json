@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj": {}
+    "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj": {}
   },
   "projects": {
-    "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj": {
+    "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
+        "projectUniqueName": "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
         "projectName": "App_Homework",
-        "projectPath": "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
+        "projectPath": "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
         "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-        "outputPath": "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\obj\\",
+        "outputPath": "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

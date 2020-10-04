@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Evns1Hkge7rGd8/1r2D8sRp+Z/PE4EHBfXm3TImy+mkyZiQ7VNMGerBfOiPW1GrEGnoH8khVJ7NJKsd+TQD2Gg==",
+  "dgSpecHash": "/t968YedfaUkher+8AkNPQGeKi9ctT/QxhW472MkoSIOXyXj5SNja1E6gIleoiu65foAVCZozr+59f8Gh61j/g==",
   "success": true,
-  "projectFilePath": "D:\\WEB API RESTFUL\\Homeworks\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
+  "projectFilePath": "D:\\WEB API RESTFUL\\Homeworks\\Homework\\WebApi\\FirstHomework\\App_Homework\\App_Homework\\App_Homework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnet.providers.core\\2.0.0\\microsoft.aspnet.providers.core.2.0.0.nupkg.sha512",

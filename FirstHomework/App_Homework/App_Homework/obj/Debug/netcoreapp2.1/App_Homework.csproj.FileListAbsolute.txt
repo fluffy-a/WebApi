@@ -15,3 +15,4 @@ D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\n
 D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.pdb
 D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.dll
 D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.pdb
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.csprojAssemblyReference.cache
