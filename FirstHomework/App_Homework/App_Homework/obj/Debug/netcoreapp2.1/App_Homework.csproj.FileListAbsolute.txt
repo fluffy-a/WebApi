@@ -1,0 +1,17 @@
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\appsettings.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.deps.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.runtimeconfig.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.runtimeconfig.dev.json
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.dll
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.AssemblyInfoInputs.cache
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.AssemblyInfo.cs
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.RazorAssemblyInfo.cache
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.RazorAssemblyInfo.cs
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.RazorTargetAssemblyInfo.cache
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.genruntimeconfig.cache
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.csproj.CoreCompileInputs.cache
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\bin\Debug\netcoreapp2.1\App_Homework.pdb
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.dll
+D:\WEB API RESTFUL\Homeworks\FirstHomework\App_Homework\App_Homework\obj\Debug\netcoreapp2.1\App_Homework.pdb
