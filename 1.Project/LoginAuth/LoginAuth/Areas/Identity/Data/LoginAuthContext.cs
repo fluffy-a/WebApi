@@ -32,11 +32,6 @@ namespace LoginAuth.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
         }
-        DbSet<User> Users { get; set; }
-        DbSet<AccountClass> AccountClasses { get; set; }
-        DbSet<Account> Accounts { get; set; }
-        DbSet<AccountType> AccountTypes { get; set; }
-        DbSet<Blagajna> Blagajna { get; set; }
-        DbSet<Clients> Clients { get; set; }
+
     }
 }
